@@ -35,5 +35,3 @@ I currently work at Tech to Market as Full-Stack developer [TTM](https://techtom
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=guilhermeramos0603&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeramos0603)
-
-![Snake animation](https://github.com/guilhermeramos0603/guilhermeramos0603/blob/output/github-contribution-grid-snake.svg)
