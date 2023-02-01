@@ -1,12 +1,10 @@
-![renomear](https://user-images.githubusercontent.com/95641378/183314468-4bccc4ec-f3df-4505-b15b-c7fd5316cfbd.png)
+![renomear](https://uploaddeimagens.com.br/imagens/IyYgiqs)
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=guilhermeramos0603" alt="dexternatan" /></p>
 
 
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Guilherme</h1>
-<p align = "justify">Full-Stack developer, Software Engineer, techonology lover and profecionally ambicious</p>
-
-I currently work at Tech to Market as Full-Stack developer [TTM](https://techtomarket.com.br/)
+<p align = "justify">Backend developer, Software Engineer, techonology lover and profecionally ambicious</p>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-silvano-ramos/)](https://www.linkedin.com/in/guilherme-silvano-ramos/)
 [![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:guilherme.silvano@hotmail.com)](mailto:guilherme.silvano@hotmail.com)
