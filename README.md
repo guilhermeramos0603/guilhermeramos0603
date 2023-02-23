@@ -1,5 +1,3 @@
-![renomear](https://uploaddeimagens.com.br/images/004/323/742/original/2.png?1675265490)
-
 <p align="left"><img src="https://komarev.com/ghpvc/?username=guilhermeramos0603" alt="dexternatan" /></p>
 
 
